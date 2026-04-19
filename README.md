@@ -1,4 +1,4 @@
-# WAStatusCutter v2.0.0 🎬
+# WAStatusCutter v5.0.1 🎬
 
 Ein schlankes Android-Tool, um lange Videos in perfekte 59-Sekunden-Stücke für den WhatsApp-Status zu schneiden – ohne Qualitätsverlust durch Re-Encoding.
 
