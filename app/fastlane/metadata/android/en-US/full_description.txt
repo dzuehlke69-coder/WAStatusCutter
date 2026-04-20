@@ -1,0 +1,26 @@
+WAStatusCutter v5.0.1 🎬
+
+A lightweight Android tool to split long videos into perfect 59-second segments for WhatsApp Status – with zero quality loss thanks to no re-encoding.
+Features
+
+    High-Speed Cutting: Uses MediaMuxer for lightning-fast splitting without transcoding.
+
+    Smart Audio: Preserves the audio track (small "hack" included for technical reasons).
+
+    Automatic Upload: Passes the segments directly to WhatsApp.
+
+    Auto-Reverse: Sends files in reverse order so they appear chronologically correct (1, 2, 3...) in your status.
+
+    Clean Storage: Automatically deletes old snippets before each new process.
+
+    BTC Support: Integrated donation dialog with QR code.
+
+How to use
+
+    Launch the app.
+
+    Tap on Select Video.
+
+    Wait for the cutting process to finish.
+
+    Select My Status in WhatsApp and send.
